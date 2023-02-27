@@ -10,7 +10,7 @@
   "author": "Max Dörfler <max@apeunit.com> (https://github.com/muxe)",
   "license": "ISC",
   "dependencies": {
-    "p5": "0.6.0"
+    "p5": "0.6.1"
   },
   "devDependencies": {
     "babel-core": "6.26.0",
